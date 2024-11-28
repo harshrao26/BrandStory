@@ -12,7 +12,7 @@ const Experience = () => {
           Built for your business. Sign up and Stay Competitive
         </p>
 
-        <button className="bg-white text-[#5b6bd5] px-6 py-2 rounded-full shadow-md hover:bg-blue-700 transition-all duration-300 transform hover:scale-105">
+        <button className="bg-white text-[#5b6bd5] px-6 py-2 rounded-full shadow-md hover:bg-blue-100 transition-all duration-300 transform hover:scale-105">
           Contact Us
         </button>
       </div>
