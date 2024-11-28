@@ -65,7 +65,7 @@ const ClientWins = () => {
             key={key}
             className={`px-4 py-2 rounded-lg ${
               activeClient === key
-                ? "bg-blue-600 text-white"
+                ? "bg-[#5b6bd5] text-white"
                 : "bg-gray-200 text-gray-800"
             }`}
             onClick={() => setActiveClient(key)}
